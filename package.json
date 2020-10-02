@@ -1,6 +1,6 @@
 {
   "name": "naesungbot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "[위키](https://github.com/DPS0340/BetweenBot/wiki)가 곧 매뉴얼입니다.",
   "main": "Main.js",
   "dependencies": {
@@ -42,10 +42,14 @@
     "type": "git",
     "url": "git+https://github.com/Naesung/Naesungbot.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Naesung",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Naesung/Naesungbot/issues"
   },
-  "homepage": "https://github.com/Naesung/Naesungbot#readme"
+  "homepage": "https://github.com/Naesung/Naesungbot#readme",
+  "keywords": [
+    "discord",
+    "bot"
+  ]
 }
